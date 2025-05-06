@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Daniel Rodriguez
 
-<!--
-**DanielRodriguez9/DanielRodriguez9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero de Sistemas en formación constante  
+💻 Apasionado por el desarrollo backend y la ciberseguridad
 
-Here are some ideas to get you started:
+Actualmente me estoy especializando en desarrollo backend con **Java y Spring Boot**, y complemento mis estudios con el **curso de Google en Análisis de Ciberseguridad**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Aprendiendo y practicando
+- Desarrollo de **APIs REST** con Java + Spring Boot
+- Python y sus frameworks
+- Uso de **Postman** para pruebas de endpoints
+- **Análisis de Ciberseguridad** (detección de amenazas, monitoreo, análisis de eventos)
+- **Administración de usuarios y permisos en Linux**
+- **SQL** para filtrado y análisis de datos
+- Automatización y scripting básico con **Python**
+
+---
+
+## 🌱 Objetivo actual
+Desarrollar proyectos personales que integren **seguridad básica y desarrollo backend**, como un sistema de login seguro o auditoría de accesos con análisis de logs y mucho mas.
+
+---
+
+## 📫 ¿Hablamos?
+- ✉️ ricardoparra09999@gmail.com
