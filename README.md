@@ -1,27 +1,27 @@
-# 👋 ¡Hola! Soy Daniel Rodriguez
+# 👋 Hi! I'm Daniel Rodriguez
 
-🎓 Ingeniero de Sistemas en formación constante  
-💻 Apasionado por el desarrollo backend y la ciberseguridad
+🎓 Systems Engineer in continuous learning  
+💻 Passionate about backend development and cybersecurity
 
-Actualmente me estoy especializando en desarrollo backend con **Java y Spring Boot**, y complemento mis estudios con el **curso de Google en Análisis de Ciberseguridad**.
-
----
-
-## 🚀 Aprendiendo y practicando
-- Desarrollo de **APIs REST** con Java + Spring Boot
-- Python y sus frameworks
-- Uso de **Postman** para pruebas de endpoints
-- **Análisis de Ciberseguridad** (detección de amenazas, monitoreo, análisis de eventos)
-- **Administración de usuarios y permisos en Linux**
-- **SQL** para filtrado y análisis de datos
-- Automatización y scripting básico con **Python**
+Currently, I'm specializing in backend development with **Java and Spring Boot**, and complementing my studies with the **Google Cybersecurity Analyst course**.
 
 ---
 
-## 🌱 Objetivo actual
-Desarrollar proyectos personales que integren **seguridad básica y desarrollo backend**, como un sistema de login seguro o auditoría de accesos con análisis de logs y mucho mas.
+## 🚀 Learning and Practicing
+- Developing **REST APIs** with Java + Spring Boot
+- Python and its frameworks
+- Using **Postman** for endpoint testing
+- **Cybersecurity Analysis** (threat detection, monitoring, event analysis)
+- **User and permission management in Linux**
+- **SQL** for data filtering and analysis
+- Basic automation and scripting with **Python**
 
 ---
 
-## 📫 ¿Hablamos?
+## 🌱 Current Objective
+Develop personal projects that integrate **basic security and backend development**, like a secure login system or access auditing with log analysis, and much more.
+
+---
+
+## 📫 Let's talk?
 - ✉️ ricardoparra09999@gmail.com
