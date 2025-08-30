@@ -1,6 +1,6 @@
-👋 Hi! I'm Daniel Rodriguez
 
-🎓 Systems Engineer | 💻 Backend Developer in progress | 🔐 Cybersecurity Enthusiast | 🤖 AI & Machine Learning Learner
+
+ Systems Engineer |  Backend Developer in progress |  Cybersecurity Enthusiast |  AI & Machine Learning Learner
 
 I'm passionate about backend development, secure software design, and exploring the potential of artificial intelligence.
 Currently, I'm specializing in building scalable applications with Java + Spring Boot and managing databases with MySQL.
