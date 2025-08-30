@@ -1,27 +1,51 @@
-# 👋 Hi! I'm Daniel Rodriguez
+👋 Hi! I'm Daniel Rodriguez
 
-🎓 Systems Engineer in continuous learning  
-💻 Passionate about backend development and cybersecurity
+🎓 Systems Engineer | 💻 Backend Developer in progress | 🔐 Cybersecurity Enthusiast | 🤖 AI & Machine Learning Learner
 
-Currently, I'm specializing in backend development with **Java and Spring Boot**, and complementing my studies with the **Google Cybersecurity Analyst course**.
-
----
-
-## 🚀 Learning and Practicing
-- Developing **REST APIs** with Java + Spring Boot
-- Python and its frameworks
-- Using **Postman** for endpoint testing
-- **Cybersecurity Analysis** (threat detection, monitoring, event analysis)
-- **User and permission management in Linux**
-- **SQL** for data filtering and analysis
-- Basic automation and scripting with **Python**
+I'm passionate about backend development, secure software design, and exploring the potential of artificial intelligence.
+Currently, I'm specializing in building scalable applications with Java + Spring Boot and managing databases with MySQL.
+Additionally, I completed the Google Cybersecurity Analyst course, which gave me strong foundations in security practices for modern applications.
 
 ---
 
-## 🌱 Current Objective
-Develop personal projects that integrate **basic security and backend development**, like a secure login system or access auditing with log analysis, and much more.
+🚀 What I'm learning and building
+
+Development of RESTful APIs with Java + Spring Boot
+
+Authentication & Authorization with JWT and Spring Security
+
+Database management and optimization with MySQL
+
+Testing APIs with Postman and building React frontends to consume them
+
+Cybersecurity analysis: threat detection, monitoring, and event analysis
+
+Basic automation and scripting with Python
+
+Linux administration and permission management
 
 ---
 
-## 📫 Let's talk?
-- ✉️ ricardoparra09999@gmail.com
+🧠 Artificial Intelligence / Machine Learning basics:
+
+Created a chatbot using Python, NumPy and ML fundamentals
+
+Exploring libraries like scikit-learn for data analysis and predictive models
+
+---
+
+🌱 Current Objective
+
+Build professional projects that combine:
+
+Backend development (secure APIs, role-based access control)
+
+Security best practices (auditing, logging, authentication)
+
+Artificial Intelligence experiments integrated with backend systems
+
+---
+
+📫 Let's connect!
+
+📧 Email: ricardoparra09999@gmail.com
