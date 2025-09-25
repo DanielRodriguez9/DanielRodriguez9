@@ -8,7 +8,7 @@ Additionally, I completed the Google Cybersecurity Analyst course, which gave me
 
 ---
 
-🚀 What I'm learning and building
+-  What I'm learning and building
 
 Development of RESTful APIs with Java + Spring Boot
 
@@ -26,7 +26,7 @@ Linux administration and permission management
 
 ---
 
-🧠 Artificial Intelligence / Machine Learning basics:
+- Artificial Intelligence / Machine Learning basics:
 
 Created a chatbot using Python, NumPy and ML fundamentals
 
@@ -34,7 +34,7 @@ Exploring libraries like scikit-learn for data analysis and predictive models
 
 ---
 
-🌱 Current Objective
+-  Current Objective
 
 Build professional projects that combine:
 
@@ -46,6 +46,6 @@ Artificial Intelligence experiments integrated with backend systems
 
 ---
 
-📫 Let's connect!
+-  Let's connect!
 
-📧 Email: ricardoparra09999@gmail.com
+-  Email: ricardoparra09999@gmail.com
