@@ -86,7 +86,7 @@ Completed the Google Cybersecurity Certificate with focus on:
 Spotify-inspired local music application built with Python + FastAPI + React.
 
 ### ✨ Features
-- Download music from YouTube
+- Download music 
 - Local offline playback
 - PostgreSQL music library
 - Modern Spotify-style interface
