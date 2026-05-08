@@ -153,11 +153,7 @@ Python • NLTK • PyTorch • NumPy
 
 ---
 
-# 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielRodriguez9&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodriguez9&layout=compact)
 
 ---
 
