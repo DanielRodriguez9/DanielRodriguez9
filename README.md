@@ -1,56 +1,78 @@
- Systems Engineer | Backend Developer in Progress | Cybersecurity Enthusiast | AI & Machine Learning Learner
+# 👨‍💻 Daniel Rodríguez
+
+**Systems Engineer | Python Developer | Backend Developer | Cybersecurity Enthusiast**
 
 ---
 
-I'm passionate about backend development, secure software design, and exploring the potential of artificial intelligence.
-Currently, I'm focusing on building scalable applications with Java + Spring Boot, managing databases with MySQL, and developing modern React frontends using Tailwind-Boostrap CSS, HTML, and CSS.
+## Sobre mí
 
-Additionally, I completed the Google Cybersecurity Analyst course, which gave me solid foundations in threat detection, secure coding practices, and incident response for modern applications.
+Apasionado por **Python**, el desarrollo backend, la seguridad en software y la inteligencia artificial.
 
----
+Construyo aplicaciones escalables con **Python + FastAPI**, **Java + Spring Boot**, bases de datos **PostgreSQL / MySQL**, y frontends modernos con **React + Tailwind CSS**.
 
- ## What I'm Learning and Building
-
-Development of RESTful APIs with Java + Spring Boot
-
-Authentication & Authorization with JWT and Spring Security
-
-Database management and optimization with MySQL
-
-Frontend development using React + Tailwind CSS to build responsive interfaces
-
-Testing APIs with Postman and integrating them into full-stack projects
-
-Cybersecurity analysis: threat detection, monitoring, and event analysis
-
-Basic automation and scripting with Python
-
-Linux administration and permission management
+Completé el **Google Cybersecurity Certificate**, con enfoque en detección de amenazas, código seguro y respuesta a incidentes.
 
 ---
 
-## Artificial Intelligence / Machine Learning Basics
+## Proyectos destacados
 
-Built a chatbot using Python, NumPy and ML fundamentals
+### 🎵 DR Music Free
+Reproductor de música local estilo Spotify.  
+Descarga desde YouTube, biblioteca en PostgreSQL, reproducción sin conexión.  
+**Stack:** Python, FastAPI, React, PostgreSQL, yt-dlp, FFmpeg.
 
-Exploring scikit-learn for data analysis and predictive models
+### 🤖 Chatbot con redes neuronales
+Chatbot entrenado localmente con NLTK y PyTorch.  
+Sin APIs externas, usando conceptos de NLP y deep learning básico.  
+**Stack:** Python, NLTK, PyTorch, NumPy.
+
+### 📊 Dashboard de productos - Crypto Milovat -  (Full Stack)
+Panel de administración + tienda online desplegada en producción.  
+Gestión de productos desde dashboard con sincronización automática a la web.  
+**Stack:** Python, FastAPI, React, Vite, Supabase (PostgreSQL), Render, Cloudflare.
+
+*Proyecto Privado por peticion del cliente**
 
 ---
 
-## Current Objective
+## Tecnologías
 
-Build professional projects that combine:
-
-Backend development (secure APIs, role-based access control)
-
-Frontend development (modern, responsive UIs with React & Tailwind)
-
-Security best practices (auditing, logging, authentication)
-
-Artificial Intelligence integrated into backend systems
+| Área | Tecnologías |
+|------|-------------|
+| **🐍 Python** | FastAPI, Flask, NLTK, PyTorch, scikit-learn, yt-dlp |
+| **☕ Java** | Spring Boot, Spring Security, JWT |
+| **🎨 Frontend** | React, Vite, Tailwind CSS, Bootstrap, Axios |
+| **🗄️ Base de datos** | PostgreSQL, MySQL, SQLAlchemy, Supabase |
+| **☁️ Despliegue** | Render, Cloudflare, Git |
+| **🔒 Seguridad** | JWT, Spring Security, OWASP, Google Cybersecurity |
+| **🛠️ Herramientas** | Git, Linux, Postman, Uvicorn |
 
 ---
 
-## Let's Connect
+## Lenguajes principales
 
--  ricardoparra09999@gmail.com
+| Lenguaje | Nivel | Uso principal |
+|----------|-------|---------------|
+| **Python** | ⭐ Avanzado | Backend, ML, automatización, APIs |
+| **JavaScript** | ⭐ Intermedio | React, frontend, Vite |
+| **Java** | ⭐ Intermedio | Backend empresarial, APIs |
+
+---
+
+## Objetivo
+
+Seguir construyendo proyectos que integren:
+
+- **Python como lenguaje principal**
+- Backend seguro y escalable con FastAPI
+- Frontend moderno con React + Vite
+- Despliegue en la nube (Render, Cloudflare, Supabase)
+- Prácticas de seguridad y auditoría
+- Inteligencia artificial aplicada
+
+---
+
+## 📫 Contacto
+
+**Email:** ricardoparra09999@gmail.com  
+**GitHub:** [github.com/DanielRodriguez9](https://github.com/DanielRodriguez9)
