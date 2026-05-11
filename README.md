@@ -8,17 +8,17 @@ Passionate about backend architecture, secure APIs, artificial intelligence, aut
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I am a backend-focused developer passionate about building modern, scalable, and secure applications.
 
-### 🔥 Main Technologies
+###  Main Technologies
 - Python + FastAPI
 - Java + Spring Boot
 - PostgreSQL / MySQL
 - React + Tailwind CSS
 
-### 🛡️ Interests
+###  Interests
 - Cybersecurity
 - Secure backend development
 - Artificial Intelligence
@@ -33,9 +33,9 @@ Completed the Google Cybersecurity Certificate with focus on:
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## 🐍 Backend
+##  Backend
 - Python
 - FastAPI
 - Flask
@@ -44,32 +44,32 @@ Completed the Google Cybersecurity Certificate with focus on:
 - Spring Security
 - JWT
 
-## 🎨 Frontend
+##  Frontend
 - React
 - Vite
 - Tailwind CSS
 - Bootstrap
 - Axios
 
-## 🗄️ Databases
+## Databases
 - PostgreSQL
 - MySQL
 - SQLAlchemy
 - Supabase
 
-## ☁️ Deployment & Cloud
+##  Deployment & Cloud
 - Render
 - Cloudflare
 - Git
 - Linux
 
-## 🤖 AI & Machine Learning
+##  AI & Machine Learning
 - NLTK
 - PyTorch
 - NumPy
 - scikit-learn
 
-## 🔒 Cybersecurity
+##  Cybersecurity
 - OWASP
 - JWT Authentication
 - Secure API Development
@@ -77,15 +77,15 @@ Completed the Google Cybersecurity Certificate with focus on:
 
 ---
 
-# 🔥 Featured Projects
+#  Featured Projects
 
 ---
 
-## 🎵 DR Music Free
+##  DR Music Free
 
 Spotify-inspired local music application built with Python + FastAPI + React.
 
-### ✨ Features
+###  Features
 - Download music 
 - Local offline playback
 - PostgreSQL music library
@@ -95,33 +95,33 @@ Spotify-inspired local music application built with Python + FastAPI + React.
 ### 🛠️ Stack
 Python • FastAPI • React • PostgreSQL • FFmpeg • yt-dlp
 
-### 🔗 Links
+###  Links
 - [Repository](https://github.com/DanielRodriguez9/dr-music-free)
 
 
-### 📸 Preview
+###  Preview
 ![DR Music Free](https://github.com/DanielRodriguez9/dr-music-free/blob/main/Captura%20de%20pantalla%202026-05-07%20194806.png)
 
 ---
 
-## 📊 Crypto Milovat Dashboard (Full Stack)
+##  Crypto Milovat Dashboard (Full Stack)
 
 Administration dashboard and online store deployed in production.
 
-### ✨ Features
+###  Features
 - Product management dashboard
 - Automatic synchronization with online store
 - Modern admin interface
 - Production deployment
 
-### 🛠️ Stack
+###  Stack
 Python • FastAPI • React • Vite • PostgreSQL • Supabase • Render • Cloudflare
 
-### 🔗 Links
+###  Links
 - [Repository] - private
 - [Live Demo](https://cryptomilovat.com/)
 
-### 📸 Preview
+###  Preview
 ![Crypto Milovat](https://github.com/DanielRodriguez9/DanielRodriguez9/blob/main/Captura%20de%20pantalla%202026-05-08%20102400.png)
 
 ###
@@ -131,20 +131,20 @@ Python • FastAPI • React • Vite • PostgreSQL • Supabase • Render •
 
 ---
 
-## 🤖 AI Chatbot with Neural Networks
+##  AI Chatbot with Neural Networks
 
 Local AI chatbot trained using NLP and neural networks without external APIs.
 
-### ✨ Features
+###  Features
 - Local model training
 - Natural language processing
 - Intent recognition
 - Deep learning fundamentals
 
-### 🛠️ Stack
+### Stack
 Python • NLTK • PyTorch • NumPy
 
-### 🔗 Links
+###  Links
 - [Live Demo](https://chatbot-premium-coffee.onrender.com/)
 
 ### 📸 Preview
@@ -157,7 +157,7 @@ Python • NLTK • PyTorch • NumPy
 
 ---
 
-# 🎯 Current Goals
+#  Current Goals
 
 - Build scalable backend systems with FastAPI
 - Improve cloud and DevOps skills
@@ -167,7 +167,7 @@ Python • NLTK • PyTorch • NumPy
 
 ---
 
-# 📫 Contact
+#  Contact
 
-- 📧 Email: ricardoparra09999@gmail.com
-- 💻 GitHub: https://github.com/DanielRodriguez9
+-  Email: ricardoparra09999@gmail.com
+-  GitHub: https://github.com/DanielRodriguez9
